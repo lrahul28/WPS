@@ -1,0 +1,12 @@
+input {
+    font-size: 20px;
+}
+button{
+    height: 50%;
+    
+}
+.d{
+    border-style: solid;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
